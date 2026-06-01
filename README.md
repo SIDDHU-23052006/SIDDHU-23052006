@@ -1,149 +1,112 @@
-<h1 align="center">
-  Hi 👋, I'm Siddharth B
-</h1>
+<div align="center">
 
-<h3 align="center">
-🚀 Full Stack Developer | SAP Enthusiast | AI Developer | Team Lead
-</h3>
+# Siddharth B
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=B.Tech+CSE+Student;Full+Stack+Developer;AI+Application+Developer;SAP+Finance+Module+Developer;Hackathon+Winner;Future+Software+Engineer" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+Application+Developer;SAP+Finance+Enthusiast;B.Tech+CSE+Student;Hackathon+Winner;Future+Software+Engineer" alt="Typing SVG" />
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+<div align="center">
 
-🎓 B.Tech Computer Science & Engineering Student
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-peach-six-0834l81qqj.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/siddharth-b-7b35042a9)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bsiddharth100@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SIDDHU-23052006)
 
-🏫 Sri Manakula Vinayagar Engineering College
-
-📊 Current CGPA: **8.41/10**
-
-💡 Passionate about:
-
-- Full Stack Development
-- Artificial Intelligence
-- SAP Solutions
-- Problem Solving
-- Software Engineering
-
-🚀 Built multiple real-world applications from design to deployment.
-
-🏆 Winner of multiple hackathons, project expos, and technical events.
-
-📍 Chennai, Tamil Nadu, India
+</div>
 
 ---
 
-## 🌐 Connect With Me
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="25"/> About Me
 
-<p align="center">
-<a href="https://linkedin.com/in/siddharth-b-7b35042a9">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+```yaml
+Name: Siddharth B
+Education: B.Tech Computer Science & Engineering
+College: Sri Manakula Vinayagar Engineering College
+CGPA: 8.41 / 10.0
+Location: Chennai, India
 
-<a href="mailto:bsiddharth100@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+Interests:
+  - Full Stack Development
+  - Artificial Intelligence
+  - SAP Solutions
+  - Problem Solving
+  - Software Engineering
 
-<a href="https://github.com/SIDDHU-23052006">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://portfolio-peach-six-0834l81qqj.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-</p>
+Current Focus:
+  - Java Development
+  - SAP Consulting
+  - AI Applications
+  - Open Source Contributions
+```
 
 ---
 
-## 🚀 Tech Stack
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" width="25"/> Tech Stack
 
-### Programming Languages
+### Languages
 
-<p>
+<p align="left">
 <img src="https://skillicons.dev/icons?i=java,javascript,python" />
 </p>
 
 ### Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap" />
 </p>
 
 ### Backend
 
-<p>
+<p align="left">
 <img src="https://skillicons.dev/icons?i=flask,firebase" />
 </p>
 
 ### Database
 
-<p>
+<p align="left">
 <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-### Tools & Technologies
+### Tools
 
-<p>
+<p align="left">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 </p>
 
 ---
 
-## 💼 Internship Experience
+## <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="25"/> Professional Summary
 
-### 💻 Software Development Intern
-**GodParticles, Chennai**
+B.Tech Computer Science undergraduate with hands-on experience in:
 
-- Developed SAP Invoice Generator Application
-- Built finance workflows using React, Flask & SQL
-- Implemented automated tax calculations
+✔ Java Development
+
+✔ React.js Frontend Development
+
+✔ Flask Backend Development
+
+✔ SAP Finance Module Solutions
+
+✔ AI Full Stack Applications
+
+✔ Database Design & SQL
+
+Successfully delivered multiple real-world applications from design to deployment while leading project teams and participating in national-level technical competitions.
+
+---
+
+## <img src="https://cdn-icons-png.flaticon.com/512/2784/2784445.png" width="25"/> Internship Experience
+
+### Software Development Intern | GodParticles
+
+- Developed SAP Invoice Generator
+- Implemented invoice management workflows
+- Automated GST and tax calculations
 - Generated professional PDF invoices
-- Collaborated with finance teams to replicate real SAP processes
-
----
-
-### 🤖 AI Full Stack Development Intern
-**Infosys Springboard**
-
-- Built AI Content Creator Platform
-- Integrated OpenAI, Gemini & Mistral Models
-- Developed prompt engineering workflows
-- Designed complete React + Flask architecture
-- Delivered production-ready AI solution
-
----
-
-## 🚂 Featured Projects
-
-### Smart Train Ticket Verification System
-
-🏆 1st Place Winner - Innovators Day
-
-Features:
-
-- OTP Based Authentication
-- Live Seat Mapping
-- Unauthorized Entry Alerts
-- Android + Web Platform
-- Firebase Integration
-- Real-Time Verification
-
-**Tech Stack**
-
-`React` `Firebase` `Flask` `Java`
-
----
-
-### 💰 SAP Invoice Generator
-
-- GST Calculation Automation
-- Invoice Creation & Management
-- PDF Export
-- SQL Database Storage
-- Finance Module Workflow
+- Collaborated with finance teams
 
 **Tech Stack**
 
@@ -151,15 +114,57 @@ Features:
 
 ---
 
-### 🔧 MECHCABS
+### AI Full Stack Development Intern | Infosys Springboard
+
+- Developed AI Content Creator Platform
+- Integrated OpenAI, Gemini and Mistral Models
+- Implemented Prompt Engineering Pipelines
+- Built Full Stack Architecture
+
+**Tech Stack**
+
+`React` `Flask` `Python` `LLMs`
+
+---
+
+## <img src="https://cdn-icons-png.flaticon.com/512/1087/1087927.png" width="25"/> Featured Projects
+
+### Smart Train Ticket Verification System
+
+<img src="https://img.shields.io/badge/Award-1st%20Place-success?style=flat-square"/>
+
+- OTP Authentication
+- Live Seat Mapping
+- Unauthorized Entry Alerts
+- Android + Web Platform
+- Firebase Integration
+
+**Tech Stack**
+
+`React` `Firebase` `Flask` `Java`
+
+---
+
+### SAP Invoice Generator
+
+- GST Calculation Automation
+- PDF Invoice Export
+- SQL Storage
+- Invoice Management
+
+**Tech Stack**
+
+`React` `Flask` `SQL`
+
+---
+
+### MECHCABS
 
 Emergency Mechanic & Cab Booking Platform
 
-Features:
-
 - Real-Time Location Tracking
-- Mechanic Discovery
 - Emergency Assistance
+- Mechanic Discovery
 - Rural Accessibility Solution
 
 **Tech Stack**
@@ -168,87 +173,142 @@ Features:
 
 ---
 
-## 🏆 Achievements
+## <img src="https://cdn-icons-png.flaticon.com/512/888/888879.png" width="25"/> Achievements
 
-🥇 **1st Place**
-Innovators Day Project Competition
+<table>
+<tr>
+<td>
 
-🥈 **2nd Place**
-SCIENSEA'24 Paper Presentation
-Kongu Engineering College
+🥇 Innovators Day Project Competition
 
-🏅 **Top 10**
-INAE Youth Conclave
-Anurag University
+</td>
+<td>
 
-🔥 Participated in **7+ Hackathons**
+1st Place
 
-📄 Presented **3+ Research Papers**
+</td>
+</tr>
 
-🚀 Exhibited **4+ Projects in Technical Expos**
+<tr>
+<td>
+
+🥈 SCIENSEA'24 Paper Presentation
+
+</td>
+<td>
+
+2nd Place
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+🏅 INAE Youth Conclave
+
+</td>
+<td>
+
+Top 10 Project Expo
+
+</td>
+</tr>
+
+</table>
+
+### Highlights
+
+✔ 7+ Hackathons Participated
+
+✔ 4+ Project Expos
+
+✔ 3+ Paper Presentations
+
+✔ Team Lead for Multiple Full Stack Projects
 
 ---
 
-## 📈 GitHub Analytics
+## <img src="https://cdn-icons-png.flaticon.com/512/2721/2721268.png" width="25"/> GitHub Statistics
 
-<p align="center">
+<div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SIDDHU-23052006&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SIDDHU-23052006&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=SIDDHU-23052006&theme=tokyonight"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=SIDDHU-23052006&theme=tokyonight&hide_border=true"/>
 
-</p>
-
----
-
-## 💻 Most Used Languages
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SIDDHU-23052006&layout=compact&theme=tokyonight"/>
-</p>
+</div>
 
 ---
 
-## 🏆 GitHub Trophies
+## <img src="https://cdn-icons-png.flaticon.com/512/1828/1828919.png" width="25"/> Most Used Languages
 
-<p align="center">
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SIDDHU-23052006&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## <img src="https://cdn-icons-png.flaticon.com/512/847/847969.png" width="25"/> GitHub Trophies
+
+<div align="center">
+
 <img src="https://github-profile-trophy.vercel.app/?username=SIDDHU-23052006&theme=algolia&row=1&column=7"/>
-</p>
+
+</div>
 
 ---
 
-## 📊 Contribution Graph
+## <img src="https://cdn-icons-png.flaticon.com/512/4341/4341139.png" width="25"/> Contribution Graph
 
-<p align="center">
+<div align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SIDDHU-23052006&theme=tokyo-night"/>
-</p>
+
+</div>
 
 ---
 
-## 🎯 Current Focus
+## <img src="https://cdn-icons-png.flaticon.com/512/616/616494.png" width="25"/> Contribution Snake
 
-🔹 Advanced Java Development
+<div align="center">
 
-🔹 SAP Consulting & Finance Solutions
+<img src="https://raw.githubusercontent.com/SIDDHU-23052006/SIDDHU-23052006/output/github-contribution-grid-snake-dark.svg"/>
 
-🔹 Full Stack Development
-
-🔹 Artificial Intelligence Applications
-
-🔹 Open Source Contributions
+</div>
 
 ---
 
-## 💡 Quote
+## <img src="https://cdn-icons-png.flaticon.com/512/906/906334.png" width="25"/> Current Goals
 
-> "Innovation begins where curiosity meets execution."
+- Master Advanced Java Development
+- Explore SAP Technologies
+- Build Scalable Full Stack Applications
+- Contribute to Open Source
+- Develop AI-Powered Solutions
 
 ---
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=SIDDHU-23052006&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-</p>
+## <img src="https://cdn-icons-png.flaticon.com/512/942/942748.png" width="25"/> Quote
 
-<h3 align="center">
-⭐ Thanks for visiting my profile ⭐
-</h3>
+<div align="center">
+
+### "Innovation Begins Where Curiosity Meets Execution"
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=SIDDHU-23052006&style=for-the-badge&color=blue"/>
+
+</div>
+
+<div align="center">
+
+### Thanks for Visiting My Profile
+
+</div>
