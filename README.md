@@ -1,277 +1,258 @@
 <div align="center">
 
-# Siddharth B
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+Application+Developer;SAP+Finance+Enthusiast;B.Tech+CSE+Student;Hackathon+Winner;Future+Software+Engineer" alt="Typing SVG" />
+<!-- ANIMATED HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Siddharth%20B&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Football%20Player&descAlignY=58&descSize=18&animation=fadeIn"/>
 
 </div>
 
----
+<!-- TYPING ANIMATION -->
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=Building+Full+Stack+Applications+%F0%9F%9A%80;Exploring+AI+%26+LLM+Integrations+%F0%9F%A4%96;SAP+Finance+Module+Developer+%F0%9F%92%BC;B.Tech+CSE+%40+SMVEC+%7C+CGPA+8.41+%F0%9F%8E%93;Former+Pondicherry+U-17+Football+Player+%E2%9A%BD" alt="Typing SVG" />
+</div>
 
+<br/>
+
+<!-- BADGES ROW -->
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-peach-six-0834l81qqj.vercel.app)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logoColor=white)](https://portfolio-peach-six-0834l81qqj.vercel.app)
+[![Live Project](https://img.shields.io/badge/🚀_Info_Creator-7C3AED?style=for-the-badge&logoColor=white)](https://content-creation-lac.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/siddharth-b-7b35042a9)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bsiddharth100@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SIDDHU-23052006)
 
 </div>
 
+<br/>
+
 ---
 
-## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="25"/> About Me
+## 🧬 About Me
 
-```yaml
-Name: Siddharth B
-Education: B.Tech Computer Science & Engineering
-College: Sri Manakula Vinayagar Engineering College
-CGPA: 8.41 / 10.0
-Location: Chennai, India
+```typescript
+const siddharth = {
+  name:       "Siddharth B",
+  role:       "Full Stack Developer & AI Engineer",
+  education:  "B.Tech CSE @ SMVEC, Puducherry",
+  cgpa:       8.41,
+  location:   "📍 Puducherry, India",
+  sport:      "⚽ Former Pondicherry U-17 National Football Player (2019)",
 
-Interests:
-  - Full Stack Development
-  - Artificial Intelligence
-  - SAP Solutions
-  - Problem Solving
-  - Software Engineering
+  currentlyLearning: ["Advanced Java", "SAP Technologies", "System Design"],
+  workingOn:         ["AI-Powered Apps", "Scalable Full Stack Systems"],
+  askMeAbout:        ["React", "Flask", "LLMs", "SAP", "Firebase"],
 
-Current Focus:
-  - Java Development
-  - SAP Consulting
-  - AI Applications
-  - Open Source Contributions
+  funFact: "I debug code with the same focus I used on the football field 🎯"
+};
 ```
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" width="25"/> Tech Stack
+## 🚀 Live Project Spotlight
 
-### Languages
+<div align="center">
 
+### ✨ Info Creator — AI Content Platform
+
+[![Info Creator](https://img.shields.io/badge/🔗_Live_Demo-content--creation--lac.vercel.app-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://content-creation-lac.vercel.app/)
+
+> A full-stack AI content generation platform integrating **OpenAI**, **Gemini**, and **Mistral** models with custom prompt-engineering pipelines. Built during Infosys Springboard internship and deployed live.
+
+| Feature | Details |
+|---|---|
+| 🧠 AI Models | OpenAI · Gemini · Mistral |
+| ⚙️ Stack | React · Flask · Python |
+| 🎯 Use Case | Personalized AI content generation |
+| 📦 Status | ✅ Live & Production-Ready |
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
 <p align="left">
 <img src="https://skillicons.dev/icons?i=java,javascript,python" />
 </p>
 
-### Frontend
-
+### 🎨 Frontend
 <p align="left">
 <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap" />
 </p>
 
-### Backend
-
+### ⚙️ Backend
 <p align="left">
-<img src="https://skillicons.dev/icons?i=flask,firebase" />
+<img src="https://skillicons.dev/icons?i=flask,nodejs,firebase" />
 </p>
 
-### Database
-
+### 🗄️ Database
 <p align="left">
-<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=postgresql,sqlite,mongodb,mysql" />
 </p>
 
-### Tools
+> Also work with: **Oracle DB** · **NeonDB** (serverless Postgres)
 
+### 🔧 Tools & Platforms
 <p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,figma,arduino" />
 </p>
 
----
-
-## <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="25"/> Professional Summary
-
-B.Tech Computer Science undergraduate with hands-on experience in:
-
-✔ Java Development
-
-✔ React.js Frontend Development
-
-✔ Flask Backend Development
-
-✔ SAP Finance Module Solutions
-
-✔ AI Full Stack Applications
-
-✔ Database Design & SQL
-
-Successfully delivered multiple real-world applications from design to deployment while leading project teams and participating in national-level technical competitions.
+> Also use: **Ollama** (local LLMs) · **Hugging Face** (AI/ML models)
 
 ---
 
-## <img src="https://cdn-icons-png.flaticon.com/512/2784/2784445.png" width="25"/> Internship Experience
-
-### Software Development Intern | GodParticles
-
-- Developed SAP Invoice Generator
-- Implemented invoice management workflows
-- Automated GST and tax calculations
-- Generated professional PDF invoices
-- Collaborated with finance teams
-
-**Tech Stack**
-
-`React` `Flask` `SQL`
-
----
-
-### AI Full Stack Development Intern | Infosys Springboard
-
-- Developed AI Content Creator Platform
-- Integrated OpenAI, Gemini and Mistral Models
-- Implemented Prompt Engineering Pipelines
-- Built Full Stack Architecture
-
-**Tech Stack**
-
-`React` `Flask` `Python` `LLMs`
-
----
-
-## <img src="https://cdn-icons-png.flaticon.com/512/1087/1087927.png" width="25"/> Featured Projects
-
-### Smart Train Ticket Verification System
-
-<img src="https://img.shields.io/badge/Award-1st%20Place-success?style=flat-square"/>
-
-- OTP Authentication
-- Live Seat Mapping
-- Unauthorized Entry Alerts
-- Android + Web Platform
-- Firebase Integration
-
-**Tech Stack**
-
-`React` `Firebase` `Flask` `Java`
-
----
-
-### SAP Invoice Generator
-
-- GST Calculation Automation
-- PDF Invoice Export
-- SQL Storage
-- Invoice Management
-
-**Tech Stack**
-
-`React` `Flask` `SQL`
-
----
-
-### MECHCABS
-
-Emergency Mechanic & Cab Booking Platform
-
-- Real-Time Location Tracking
-- Emergency Assistance
-- Mechanic Discovery
-- Rural Accessibility Solution
-
-**Tech Stack**
-
-`React` `Firebase` `Flask`
-
----
-
-## <img src="https://cdn-icons-png.flaticon.com/512/888/888879.png" width="25"/> Achievements
+## 💼 Internship Experience
 
 <table>
 <tr>
-<td>
+<td width="50%" valign="top">
 
-🥇 Innovators Day Project Competition
+### 🏢 GodParticles · Software Dev Intern
+**📍 Adyar, Chennai · 2026**
 
-</td>
-<td>
+- Built a full web-based **SAP Invoice Generator** under the Finance module
+- Automated **GST + tax calculations** and PDF invoice export
+- Mapped real-world SAP invoice workflows into a functional UI
+- Collaborated directly with the finance team
 
-1st Place
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-🥈 SCIENSEA'24 Paper Presentation
+**Stack:** `React` `Flask` `SQL`
 
 </td>
-<td>
+<td width="50%" valign="top">
 
-2nd Place
+### 🧠 Infosys Springboard · AI Full Stack Intern
+**📍 Remote · 2026**
 
-</td>
-</tr>
+- Built **AI Content Creator** integrating 3 LLMs (OpenAI, Gemini, Mistral)
+- Implemented prompt-engineering pipelines for dynamic content generation
+- Delivered a fully functional, deployed web app on time
 
-<tr>
-<td>
+**Stack:** `React` `Flask` `Python` `LLMs`
 
-🏅 INAE Youth Conclave
-
-</td>
-<td>
-
-Top 10 Project Expo
+🔗 [**View Live →**](https://content-creation-lac.vercel.app/)
 
 </td>
 </tr>
-
 </table>
 
-### Highlights
+---
 
-✔ 7+ Hackathons Participated
+## 🏗️ Featured Projects
 
-✔ 4+ Project Expos
+<table>
+<tr>
+<td width="50%" valign="top">
 
-✔ 3+ Paper Presentations
+### 🚆 Smart Train Ticket Verification System
+🥇 **1st Place — Innovators Day, SMVEC**
 
-✔ Team Lead for Multiple Full Stack Projects
+- Led a team of 4 to build a **Web + Android** platform
+- OTP authentication · Live seat mapping · Unauthorized entry alerts
+- Firebase real-time sync for instant updates
+
+**Stack:** `React` `Firebase` `Flask` `Java`
+
+</td>
+<td width="50%" valign="top">
+
+### 🧾 SAP Invoice Generator
+**Production-Ready Billing System**
+
+- Automated **GST calculations** and PDF export
+- Normalized SQL storage with invoice management workflows
+- Core module reused directly in GodParticles internship
+
+**Stack:** `React` `Flask` `SQL`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🚗 MECHCABS
+**Emergency Mechanic & Cab Booking Platform**
+
+- Real-time location tracking + mechanic discovery
+- Emergency roadside assistance for rural accessibility
+- Full-stack architecture with Firebase
+
+**Stack:** `React` `Firebase` `Flask`
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 Info Creator (AI Platform)
+**Live: [content-creation-lac.vercel.app](https://content-creation-lac.vercel.app/)**
+
+- Multi-LLM integration (OpenAI · Gemini · Mistral)
+- Dynamic prompt pipelines & content generation
+- Deployed and production-ready
+
+**Stack:** `React` `Flask` `Python` `LLMs`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## <img src="https://cdn-icons-png.flaticon.com/512/2721/2721268.png" width="25"/> GitHub Statistics
+## 🏆 Achievements & Competitions
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SIDDHU-23052006&show_icons=true&theme=tokyonight&hide_border=true"/>
+| 🏅 Award | 🏫 Event | 📍 Venue |
+|---|---|---|
+| 🥇 **1st Place** | Innovators Day Project Competition | SMVEC, Puducherry |
+| 🥈 **2nd Place** | SCIENSEA'24 Paper Presentation | Kongu Engineering College, Erode |
+| 🏅 **Top 10** | INAE Youth Conclave Project Expo | Anurag University, Hyderabad |
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=SIDDHU-23052006&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│   🏆  7+  Hackathons   │   📋  3+  Paper Presentations      │
+│   🔬  4+  Project Expos │   👨‍💻  3+  Team Lead Roles          │
+└─────────────────────────────────────────────────────────────┘
+```
 
 </div>
 
 ---
 
-## <img src="https://cdn-icons-png.flaticon.com/512/1828/1828919.png" width="25"/> Most Used Languages
+## ⚽ Beyond the Code
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SIDDHU-23052006&layout=compact&theme=tokyonight&hide_border=true"/>
+> **"The discipline I learned on the football field — consistency, teamwork, pressure performance — shaped how I build software."**
+
+🏟️ **Played for Pondicherry State U-17 Team (2019)**
+Represented Pondicherry at national-level U-17 football. The same competitive drive fuels my work in tech.
 
 </div>
 
 ---
 
-## <img src="https://cdn-icons-png.flaticon.com/512/847/847969.png" width="25"/> GitHub Trophies
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SIDDHU-23052006&theme=algolia&row=1&column=7"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=SIDDHU-23052006&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9"/>
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=SIDDHU-23052006&theme=tokyonight&hide_border=true&background=0D1117&stroke=A78BFA&ring=A78BFA&fire=F59E0B&currStreakLabel=A78BFA"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SIDDHU-23052006&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA"/>
 
 </div>
 
 ---
 
-## <img src="https://cdn-icons-png.flaticon.com/512/4341/4341139.png" width="25"/> Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SIDDHU-23052006&theme=tokyo-night"/>
-
-</div>
-
----
-
-## <img src="https://cdn-icons-png.flaticon.com/512/616/616494.png" width="25"/> Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -281,21 +262,43 @@ Top 10 Project Expo
 
 ---
 
-## <img src="https://cdn-icons-png.flaticon.com/512/906/906334.png" width="25"/> Current Goals
-
-- Master Advanced Java Development
-- Explore SAP Technologies
-- Build Scalable Full Stack Applications
-- Contribute to Open Source
-- Develop AI-Powered Solutions
-
----
-
-## <img src="https://cdn-icons-png.flaticon.com/512/942/942748.png" width="25"/> Quote
+## 🎯 Activity Graph
 
 <div align="center">
 
-### "Innovation Begins Where Curiosity Meets Execution"
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SIDDHU-23052006&theme=tokyo-night&bg_color=0D1117&color=A78BFA&line=7C3AED&point=F59E0B&hide_border=true"/>
+
+</div>
+
+---
+
+## 🎓 Education
+
+| Degree | Institution | Score | Year |
+|---|---|---|---|
+| B.Tech CSE | Sri Manakula Vinayagar Engineering College, Puducherry | 8.41 CGPA | 2023–2027 |
+| HSC (XII) | Nivedha Matric. Higher Secondary School | 525/600 · 87.5% | 2022–2023 |
+| SSLC (X) | Jeevanandam Govt. Higher Secondary School | — | 2020–2021 |
+
+---
+
+## 🌱 Current Goals
+
+```
+[ ] Master Advanced Java & System Design
+[ ] Deep dive into SAP Technologies & Consulting
+[ ] Build & deploy more AI-powered full stack apps
+[ ] Contribute to open source projects
+[ ] Achieve top percentile in competitive programming
+```
+
+---
+
+## 💬 Quote
+
+<div align="center">
+
+### *"Innovation Begins Where Curiosity Meets Execution"*
 
 </div>
 
@@ -303,12 +306,10 @@ Top 10 Project Expo
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=SIDDHU-23052006&style=for-the-badge&color=blue"/>
+<img src="https://komarev.com/ghpvc/?username=SIDDHU-23052006&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS"/>
 
-</div>
+<br/><br/>
 
-<div align="center">
-
-### Thanks for Visiting My Profile
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
 
 </div>
