@@ -1,13 +1,13 @@
 <div align="center">
 
 <!-- ANIMATED HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Siddharth%20B&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Football%20Player&descAlignY=58&descSize=18&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=SIDDHARTH%20B&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Football%20Player&descAlignY=58&descSize=18&animation=fadeIn"/>
 
 </div>
 
 <!-- TYPING ANIMATION -->
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=Building+Full+Stack+Applications+%F0%9F%9A%80;Exploring+AI+%26+LLM+Integrations+%F0%9F%A4%96;SAP+Finance+Module+Developer+%F0%9F%92%BC;B.Tech+CSE+%40+SMVEC+%7C+CGPA+8.41+%F0%9F%8E%93;Former+Pondicherry+U-17+Football+Player+%E2%9A%BD" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=Building+Full+Stack+Applications;Exploring+AI+%26+LLM+Integrations;SAP+Finance+Module+Developer;B.Tech+CSE+%40+SMVEC+%7C+CGPA+8.41;Former+Pondicherry+U-17+Football+Player" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -30,17 +30,17 @@
 ## About Me
 
 ```typescript
-  name:       "Siddharth B",
+  name:       "SIDDHARTH B",
   role:       "Full Stack Developer & AI Engineer",
   education:  "B.Tech CSE @ SMVEC, Puducherry",
-  cgpa:       8.41,
+  cgpa:       8.41/10,
   location:   "Puducherry, India",
   sport:      "Former Pondicherry U-17 National Football Player (2019)",
 
   currentlyLearning: "Advanced Java", "SAP Technologies", "System Design",
   workingOn:         "AI-Powered Apps", "Scalable Full Stack Systems",
 
-  funFact: "I debug code with the same focus I used on the football field "
+  funFact: "I debug code with the same focus I used on the football field"
 ```
 
 ---
@@ -51,7 +51,7 @@
 
 ### Info Creator — AI Content Platform
 
-[![Info Creator](https://img.shields.io/badge/🔗_Live_Demo-content--creation--lac.vercel.app-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://content-creation-lac.vercel.app/)
+[![Info Creator](https://img.shields.io/badge/Live_Demo-content--creation--lac.vercel.app-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://content-creation-lac.vercel.app/)
 
 > A full-stack AI content generation platform integrating **OpenAI**, **Gemini**, and **Mistral** models with custom prompt-engineering pipelines. Built during Infosys Springboard internship and deployed live.
 
@@ -127,7 +127,7 @@
 
 **Stack:** `React` `Flask` `Python` `LLMs`
 
-🔗 [**View Live →**](https://content-creation-lac.vercel.app/)
+[View Live](https://content-creation-lac.vercel.app/)
 
 </td>
 </tr>
@@ -142,7 +142,7 @@
 <td width="50%" valign="top">
 
 ### Smart Train Ticket Verification System
-🥇 **1st Place — Innovators Day, SMVEC**
+**1st Place — Innovators Day, SMVEC**
 
 - Led a team of 4 to build a **Web + Android** platform
 - OTP authentication · Live seat mapping · Unauthorized entry alerts
@@ -198,21 +198,21 @@
 
 <div align="center">
 
-| 🏅 Award | 🏫 Event | 📍 Venue |
+| Award | Event | Venue |
 |---|---|---|
-| 🥇 **1st Place** | Innovators Day Project Competition | SMVEC, Puducherry |
-| 🥈 **2nd Place** | SCIENSEA'24 Paper Presentation | Kongu Engineering College, Erode |
-| 🏅 **Top 10** | INAE Youth Conclave Project Expo | Anurag University, Hyderabad |
+| **1st Place** | Innovators Day Project Competition | SMVEC, Puducherry |
+| **2nd Place** | SCIENSEA'24 Paper Presentation | Kongu Engineering College, Erode |
+| **Top 10** | INAE Youth Conclave Project Expo | Anurag University, Hyderabad |
 
 </div>
 
 <div align="center">
 
 ```
-┌─────────────────────────────────────────────────────────────┐
-│   🏆  7+  Hackathons   │   📋  3+  Paper Presentations     │
-│   🔬  4+  Project Expos │   👨‍💻  3+  Team Lead Roles        │
-└─────────────────────────────────────────────────────────────┘
++-------------------------------------------------------------+
+|   7+  Hackathons      |   3+  Paper Presentations           |
+|   4+  Project Expos   |   3+  Team Lead Roles               |
++-------------------------------------------------------------+
 ```
 
 </div>
@@ -244,6 +244,16 @@ Represented Pondicherry at national-level U-17 football. The same competitive dr
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SIDDHU-23052006&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA"/>
+
+</div>
+
+---
+
+## Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/SIDDHU-23052006/SIDDHU-23052006/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
