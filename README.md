@@ -15,8 +15,8 @@
 <!-- BADGES ROW -->
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logoColor=white)](https://portfolio-peach-six-0834l81qqj.vercel.app)
-[![Live Project](https://img.shields.io/badge/🚀_Info_Creator-7C3AED?style=for-the-badge&logoColor=white)](https://content-creation-lac.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logoColor=white)](https://portfolio-peach-six-0834l81qqj.vercel.app)
+[![Live Project](https://img.shields.io/badge/Info_Creator-7C3AED?style=for-the-badge&logoColor=white)](https://content-creation-lac.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/siddharth-b-7b35042a9)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bsiddharth100@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SIDDHU-23052006)
@@ -27,32 +27,30 @@
 
 ---
 
-## 🧬 About Me
+## About Me
 
 ```typescript
-const siddharth = {
   name:       "Siddharth B",
   role:       "Full Stack Developer & AI Engineer",
   education:  "B.Tech CSE @ SMVEC, Puducherry",
   cgpa:       8.41,
-  location:   "📍 Puducherry, India",
-  sport:      "⚽ Former Pondicherry U-17 National Football Player (2019)",
+  location:   "Puducherry, India",
+  sport:      "Former Pondicherry U-17 National Football Player (2019)",
 
   currentlyLearning: ["Advanced Java", "SAP Technologies", "System Design"],
   workingOn:         ["AI-Powered Apps", "Scalable Full Stack Systems"],
   askMeAbout:        ["React", "Flask", "LLMs", "SAP", "Firebase"],
 
-  funFact: "I debug code with the same focus I used on the football field 🎯"
-};
+  funFact: "I debug code with the same focus I used on the football field "
 ```
 
 ---
 
-## 🚀 Live Project Spotlight
+## Live Project Spotlight
 
 <div align="center">
 
-### ✨ Info Creator — AI Content Platform
+### Info Creator — AI Content Platform
 
 [![Info Creator](https://img.shields.io/badge/🔗_Live_Demo-content--creation--lac.vercel.app-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://content-creation-lac.vercel.app/)
 
@@ -60,40 +58,40 @@ const siddharth = {
 
 | Feature | Details |
 |---|---|
-| 🧠 AI Models | OpenAI · Gemini · Mistral |
-| ⚙️ Stack | React · Flask · Python |
-| 🎯 Use Case | Personalized AI content generation |
-| 📦 Status | ✅ Live & Production-Ready |
+| AI Models | OpenAI · Gemini · Mistral |
+| Stack | React · Flask · Python |
+| Use Case | Personalized AI content generation |
+| Status | Live & Production-Ready |
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 💻 Languages
+### Languages
 <p align="left">
 <img src="https://skillicons.dev/icons?i=java,javascript,python" />
 </p>
 
-### 🎨 Frontend
+### Frontend
 <p align="left">
 <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap" />
 </p>
 
-### ⚙️ Backend
+### Backend
 <p align="left">
 <img src="https://skillicons.dev/icons?i=flask,nodejs,firebase" />
 </p>
 
-### 🗄️ Database
+### Database
 <p align="left">
 <img src="https://skillicons.dev/icons?i=postgresql,sqlite,mongodb,mysql" />
 </p>
 
 > Also work with: **Oracle DB** · **NeonDB** (serverless Postgres)
 
-### 🔧 Tools & Platforms
+### Tools & Platforms
 <p align="left">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,figma,arduino" />
 </p>
@@ -102,14 +100,14 @@ const siddharth = {
 
 ---
 
-## 💼 Internship Experience
+## Internship Experience
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🏢 GodParticles · Software Dev Intern
-**📍 Adyar, Chennai · 2026**
+### GodParticles · Software Dev Intern
+**Adyar, Chennai · 2026**
 
 - Built a full web-based **SAP Invoice Generator** under the Finance module
 - Automated **GST + tax calculations** and PDF invoice export
@@ -121,8 +119,8 @@ const siddharth = {
 </td>
 <td width="50%" valign="top">
 
-### 🧠 Infosys Springboard · AI Full Stack Intern
-**📍 Remote · 2026**
+### Infosys Springboard · AI Full Stack Intern
+**Remote · 2026**
 
 - Built **AI Content Creator** integrating 3 LLMs (OpenAI, Gemini, Mistral)
 - Implemented prompt-engineering pipelines for dynamic content generation
@@ -138,13 +136,13 @@ const siddharth = {
 
 ---
 
-## 🏗️ Featured Projects
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🚆 Smart Train Ticket Verification System
+### Smart Train Ticket Verification System
 🥇 **1st Place — Innovators Day, SMVEC**
 
 - Led a team of 4 to build a **Web + Android** platform
@@ -156,7 +154,7 @@ const siddharth = {
 </td>
 <td width="50%" valign="top">
 
-### 🧾 SAP Invoice Generator
+### SAP Invoice Generator
 **Production-Ready Billing System**
 
 - Automated **GST calculations** and PDF export
@@ -170,7 +168,7 @@ const siddharth = {
 <tr>
 <td width="50%" valign="top">
 
-### 🚗 MECHCABS
+### MECHCABS
 **Emergency Mechanic & Cab Booking Platform**
 
 - Real-time location tracking + mechanic discovery
@@ -182,7 +180,7 @@ const siddharth = {
 </td>
 <td width="50%" valign="top">
 
-### 🤖 Info Creator (AI Platform)
+### Info Creator (AI Platform)
 **Live: [content-creation-lac.vercel.app](https://content-creation-lac.vercel.app/)**
 
 - Multi-LLM integration (OpenAI · Gemini · Mistral)
@@ -197,7 +195,7 @@ const siddharth = {
 
 ---
 
-## 🏆 Achievements & Competitions
+## Achievements & Competitions
 
 <div align="center">
 
@@ -213,8 +211,8 @@ const siddharth = {
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│   🏆  7+  Hackathons   │   📋  3+  Paper Presentations      │
-│   🔬  4+  Project Expos │   👨‍💻  3+  Team Lead Roles          │
+│   🏆  7+  Hackathons   │   📋  3+  Paper Presentations     │
+│   🔬  4+  Project Expos │   👨‍💻  3+  Team Lead Roles        │
 └─────────────────────────────────────────────────────────────┘
 ```
 
@@ -222,20 +220,20 @@ const siddharth = {
 
 ---
 
-## ⚽ Beyond the Code
+## Beyond the Code
 
 <div align="center">
 
 > **"The discipline I learned on the football field — consistency, teamwork, pressure performance — shaped how I build software."**
 
-🏟️ **Played for Pondicherry State U-17 Team (2019)**
+**Played for Pondicherry State U-17 Team (2019)**
 Represented Pondicherry at national-level U-17 football. The same competitive drive fuels my work in tech.
 
 </div>
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
 
@@ -252,17 +250,7 @@ Represented Pondicherry at national-level U-17 football. The same competitive dr
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/SIDDHU-23052006/SIDDHU-23052006/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
-## 🎯 Activity Graph
+## Activity Graph
 
 <div align="center">
 
@@ -272,7 +260,7 @@ Represented Pondicherry at national-level U-17 football. The same competitive dr
 
 ---
 
-## 🎓 Education
+## Education
 
 | Degree | Institution | Score | Year |
 |---|---|---|---|
@@ -282,7 +270,7 @@ Represented Pondicherry at national-level U-17 football. The same competitive dr
 
 ---
 
-## 🌱 Current Goals
+## Current Goals
 
 ```
 [ ] Master Advanced Java & System Design
@@ -294,7 +282,7 @@ Represented Pondicherry at national-level U-17 football. The same competitive dr
 
 ---
 
-## 💬 Quote
+## Quote
 
 <div align="center">
 
