@@ -37,9 +37,8 @@
   location:   "Puducherry, India",
   sport:      "Former Pondicherry U-17 National Football Player (2019)",
 
-  currentlyLearning: ["Advanced Java", "SAP Technologies", "System Design"],
-  workingOn:         ["AI-Powered Apps", "Scalable Full Stack Systems"],
-  askMeAbout:        ["React", "Flask", "LLMs", "SAP", "Firebase"],
+  currentlyLearning: "Advanced Java", "SAP Technologies", "System Design",
+  workingOn:         "AI-Powered Apps", "Scalable Full Stack Systems",
 
   funFact: "I debug code with the same focus I used on the football field "
 ```
