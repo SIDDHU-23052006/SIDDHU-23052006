@@ -265,18 +265,18 @@ Represented Pondicherry at national-level U-17 football. The same competitive dr
 |---|---|---|---|
 | B.Tech CSE | Sri Manakula Vinayagar Engineering College, Puducherry | 8.41 CGPA | 2023–2027 |
 | HSC (XII) | Nivedha Matric. Higher Secondary School | 525/600 · 87.5% | 2022–2023 |
-| SSLC (X) | Jeevanandam Govt. Higher Secondary School | — | 2020–2021 |
+| SSLC (X) | Jeevanandam Govt. Higher Secondary School | 85% | 2020–2021 |
 
 ---
 
 ## Current Goals
 
 ```
-[ ] Master Advanced Java & System Design
-[ ] Deep dive into SAP Technologies & Consulting
-[ ] Build & deploy more AI-powered full stack apps
-[ ] Contribute to open source projects
-[ ] Achieve top percentile in competitive programming
+- Master Advanced Java & System Design
+- Deep dive into SAP Technologies & Consulting
+- Build & deploy more AI-powered full stack apps
+- Contribute to open source projects
+- Achieve top percentile in competitive programming
 ```
 
 ---
