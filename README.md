@@ -247,17 +247,6 @@ Represented Pondicherry at national-level U-17 football. The same competitive dr
 
 </div>
 
----
-
-## Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/SIDDHU-23052006/SIDDHU-23052006/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
 
 ## Activity Graph
 
