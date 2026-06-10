@@ -30,17 +30,17 @@
 ## About Me
 
 ```typescript
-  name:       "SIDDHARTH B",
-  role:       "Full Stack Developer & AI Engineer",
-  education:  "B.Tech CSE @ SMVEC, Puducherry",
+  name:       SIDDHARTH B,
+  role:       Full Stack Developer & AI Engineer,
+  education:  B.Tech CSE @ SMVEC, Puducherry,
   cgpa:       8.41/10,
-  location:   "Puducherry, India",
-  sport:      "Former Pondicherry U-17 National Football Player (2019)",
+  location:   Puducherry, India,
+  sport:      Former Pondicherry U-17 National Football Player (2019),
 
-  currentlyLearning: "Advanced Java", "SAP Technologies", "System Design",
-  workingOn:         "AI-Powered Apps", "Scalable Full Stack Systems",
+  currentlyLearning: Advanced Java", "SAP Technologies", "System Design,
+  workingOn:         AI-Powered Apps", "Scalable Full Stack Systems,
 
-  funFact: "I debug code with the same focus I used on the football field"
+  funFact: I debug code with the same focus I used on the football field
 ```
 
 ---
